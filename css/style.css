@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+
+.zcwrapper {
+    display: flex;
+    justify-content: center;
+    width: auto;
+}
